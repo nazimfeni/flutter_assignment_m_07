@@ -1,7 +1,7 @@
 # flutter_assignment_m_07
 
 A new Flutter project.
-<img src="https://github.com/nazimfeni/flutter_sum_app/blob/master/screenshot/Screen.png" width="200" height="400" alt="Image Description">
+<img src="https://github.com/nazimfeni/flutter_assignment_m_07/blob/master/screenshot/screen.png" width="200" height="400" alt="Image Description">
 
 ## Getting Started
 
